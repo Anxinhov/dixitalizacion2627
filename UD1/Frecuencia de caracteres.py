@@ -1,5 +1,4 @@
 palabra =input("Escribe una palabra: ")
-caracteres = [palabra.split()]
 diccionario = {}
 contador = int (0)
 for n in palabra:
